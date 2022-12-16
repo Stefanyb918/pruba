@@ -83,3 +83,4 @@ def plusMinus(arr):
 
 if __name__ == '__main__':
     plusMinus(arr)
+    print("hola")
